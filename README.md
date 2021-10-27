@@ -1,12 +1,16 @@
 ### Olá! Eu sou o João Victor ✌️
 
-### Hi! I am João Victor ✌️
-
 - Sou um desenvolvedor novato, focado em aprender e buscar soluções para coisas novas.
   Meu foco no momento é o front-end, no entanto me aventuro um pouco através do back-end.
 
+Contato: jav4sprofissional@gmail.com
+
+### Hi! I am João Victor ✌️
+
 - I'm a novice developer, focused on learning and finding solutions for new things.
   My focus at the moment is the front-end, however I take a chance and venture a bit through the back-end.
+
+Contact: jav4sprofissional@gmail.com
 
 ##
 
@@ -36,4 +40,5 @@
 <div>
   <a href = "mailto:jav4sprofissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-arruda-albuquerque-941480180/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/Jav4s01" target="_blank"><img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white targed="_blank></a>
 </div>
