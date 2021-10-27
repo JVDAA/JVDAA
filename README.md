@@ -10,7 +10,7 @@
 
 ##
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/JVDAA">
   <div style="height="160px"; display: "flex";">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JVDAA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
