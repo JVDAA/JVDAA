@@ -30,7 +30,6 @@ Contact: jav4sprofissional@gmail.com
   <img align="center" alt="joao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="joao-Node.js" height="30" width="40" src="https://img.icons8.com/fluency/50/000000/node-js.png"/>
   <img align="center" alt="joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  /*<img align="center" alt="joao-Java-SDK" height="30" width="40" style="margin-right: "5px";" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.celsonunes.com.br%2Fjava-logo%2F&psig=AOvVaw2oyjHJTV-4aaXNWegeJiwh&ust=1673985222548000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCODG-IXvzPwCFQAAAAAdAAAAABAE](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png)">*/
   <img align="center" alt="joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="joao-C" height="30" width="40" src="https://www.w3schools.in/wp-content/uploads/cprogramming-logo.png?ezimgfmt=ng:webp/ngcb6">  
 </div>
