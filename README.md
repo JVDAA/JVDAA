@@ -3,14 +3,14 @@
 - Sou um desenvolvedor novato, focado em aprender e buscar soluções para coisas novas.
   Meu foco no momento é o front-end, no entanto me aventuro um pouco através do back-end.
 
-Contato: jav4sprofissional@gmail.com
+Contato: jvaabrt@outlook.com
 
 ### Hi! I am João Victor ✌️
 
 - I'm a novice developer, focused on learning and finding solutions for new things.
   My focus at the moment is the front-end, however I take a chance and venture a bit through the back-end.
 
-Contact: jav4sprofissional@gmail.com
+Contact: jvaabrt@outlook.com
 
 ##
 
