@@ -19,7 +19,7 @@
   <img alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   
   <!-- Vendor Icons -->
-  <img alt="MikroTik" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/59/MikroTik_logo.svg">
+  <img alt="MikroTik" height="30" width="40" src="https://img.icons8.com/ios/50/000000/mikrotik.png">
   <img alt="Huawei" height="30" width="40" src="https://img.icons8.com/ios/50/000000/huawei.png">
   <img alt="ZTE" height="30" width="40" src="https://img.icons8.com/ios/50/000000/zte.png">
 </div>
