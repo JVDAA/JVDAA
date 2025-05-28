@@ -17,10 +17,11 @@
   <img alt="Golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img alt="Linux" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
   <img alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  
   <!-- Vendor Icons -->
   <img alt="MikroTik" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/59/MikroTik_logo.svg">
-  <img alt="Huawei" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Huawei_logo_2018.png">
-  <img alt="ZTE" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/13/ZTE_logo_2018.svg">
+  <img alt="Huawei" height="30" width="40" src="https://img.icons8.com/ios/50/000000/huawei.png">
+  <img alt="ZTE" height="30" width="40" src="https://img.icons8.com/ios/50/000000/zte.png">
 </div>
 
 ### Certificações e Estudo Continuado:
