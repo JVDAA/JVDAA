@@ -3,6 +3,7 @@
 - Sou um **desenvolvedor** e **analista de redes**, com foco em **front-end** e experiência em **back-end**. Estou constantemente buscando aprender novas tecnologias, ferramentas e soluções para resolver problemas desafiadores.
 - Tenho experiência com **redes** e **infraestrutura**, especialmente em **MikroTik**, **Huawei** e **ZTE**.
 - Também sou apaixonado por **automação de redes** com **Python** e **scripts**, sempre buscando melhorar a eficiência e otimizar workflows.
+- **Sistema Operacional**: Utilizo **Arch Linux** como meu ambiente de desenvolvimento, explorando personalizações e automação.
 
 💻 **Tecnologias e Ferramentas:**
 
@@ -17,11 +18,6 @@
   <img alt="Golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img alt="Linux" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
   <img alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  
-  <!-- Vendor Icons -->
-  <img alt="MikroTik" height="30" width="40" src="https://img.icons8.com/ios/50/000000/mikrotik.png">
-  <img alt="Huawei" height="30" width="40" src="https://img.icons8.com/ios/50/000000/huawei.png">
-  <img alt="ZTE" height="30" width="40" src="https://img.icons8.com/ios/50/000000/zte.png">
 </div>
 
 ### Certificações e Estudo Continuado:
