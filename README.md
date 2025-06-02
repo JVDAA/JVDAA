@@ -1,11 +1,11 @@
-### Olá! Eu sou o João Victor ✌️
+### Hey there! I'm João Victor ✌️
 
-- Sou um **desenvolvedor** e **analista de redes**, com foco em **front-end** e experiência em **back-end**. Estou constantemente buscando aprender novas tecnologias, ferramentas e soluções para resolver problemas desafiadores.
-- Tenho experiência com **redes** e **infraestrutura**, especialmente em **MikroTik**, **Huawei** e **ZTE**.
-- Também sou apaixonado por **automação de redes** com **Python** e **scripts**, sempre buscando melhorar a eficiência e otimizar workflows.
-- **Sistema Operacional**: Utilizo **Arch Linux** como meu ambiente de desenvolvimento, explorando personalizações e automação.
+- I'm a **developer** and **network analyst**, passionate about **front-end** development and experienced in **back-end** as well. I'm always seeking new technologies, tools, and smart solutions to tackle complex challenges.
+- Skilled in **networking and infrastructure**, especially with **MikroTik**, **Huawei**, and **ZTE** equipment.
+- I'm also enthusiastic about **network automation** using **Python** and scripting to improve efficiency and optimize workflows.
+- **Operating System**: I use **Arch Linux** as my development environment, diving into customization and automation.
 
-💻 **Tecnologias e Ferramentas:**
+💻 **Technologies & Tools:**
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -16,19 +16,20 @@
   <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img alt="Linux" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
-  <img alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img alt="Arch Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg">
 </div>
 
-### Certificações e Estudo Continuado:
+### Certifications & Ongoing Learning:
 
-- **Linux e Automação**: Estudo constante em Linux e automação de tarefas com Python e Bash, incluindo gerenciamento de sistemas e infraestrutura de rede.
-- **Desenvolvimento de Software**: Ampliando conhecimentos em **Python**, **Java**, **Node.js** e **Go** para criar soluções completas de back-end e front-end.
+- **Linux & Automation**: Constantly improving my Linux skills and workflow automation using Python and Bash, including system management and network infrastructure.
+- **Software Development**: Expanding knowledge in **Python**, **Java**, **Node.js**, and **Go** to build full-stack solutions with efficiency and elegance.
 
-### Entre em Contato:
+### Let's Connect:
 
 - 📧 **Email:** [jvaabrt@outlook.com](mailto:jvaabrt@outlook.com)
-- 🔗 **LinkedIn:** [Meu Perfil no LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-arruda-albuquerque-941480180/)
+- 🔗 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/jo%C3%A3o-victor-arruda-albuquerque-941480180/)
 - 📱 **Telegram:** [@Jav4s01](https://t.me/Jav4s01)
 
 ---
